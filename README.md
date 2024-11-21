@@ -14,7 +14,7 @@ You can increase the speed of your SCSI device access. On an Amiga 3000 with
 the following performance with Chris Hooper's devtest (https://github.com/cdhooper/amiga_devtest):
 
 <p float="center">
-<img src="images/wd33c93_devtest.jpg?raw=True" alt="devtest" width="75%" />
+<img src="wd33c93_devtest.jpg?raw=True" alt="devtest" width="75%" />
 </p>
 
 That's a solid 1MB/s more than on a regular Amiga 3000.

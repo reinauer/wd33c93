@@ -35,7 +35,7 @@ designed for. Or a little higher.
 ## Does this always work?
 
 Probably not. Without a driver update to your scsi.device you even end up with a slightly
-overclocked SCSI bus . But your ZuluSCSI 2040 or BlueSCSI v2 does not care. They
+overclocked SCSI bus. But your ZuluSCSI 2040 or BlueSCSI v2 does not care. They
 can be driven with much higher frequencies that the 5 or 10MHz that the SCSI
 bus is normally running at.
 
@@ -45,7 +45,7 @@ tried. So if you do, please let me know.
 ## How to build this device?
 
 You need two 20p pin headers, a 40p DIP socket, a 20MHz SMD oscillator (5V
-tolerant), a 0.1uF 0805 capacitor and that's it.
+tolerant), a 0.1uF 0805 capacitor and a 1KOhm 0805 Resistor.
 
 ## Experimental features
 

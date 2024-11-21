@@ -7,6 +7,10 @@ and eat it too. With the WD33C93 Turbo Interposer.
 Yes, you heard right. This little board sits between your Amiga 3000 mainboard
 and your WD33C93 or Am33c93 SCSI chip.
 
+<p float="center">
+<img src="wd33c93_pcb.png?raw=True" alt="WD33C93 Turbo" width="75%" />
+</p>
+
 ## What's in it?
 
 You can increase the speed of your SCSI device access. On an Amiga 3000 with

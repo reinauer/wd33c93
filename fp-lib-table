@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "wd33c93")(type "KiCad")(uri "${KIPRJMOD}/wd33c93.pretty")(options "")(descr ""))
+)
